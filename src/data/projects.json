@@ -1,26 +1,36 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Mini-Hackathon 2024 - (Solo)",
+    "imageSrc": "projects/Hackathon.png",
+    "description": "Facebook-messenger 90s style Theme .",
+    "skills": ["HTML","CSS", "JavaScript"],
+    "demo": "https://vallabh-13.github.io/Facebook-messenger-90s-style/",
+    "source": "https://github.com/vallabh-13/Facebook-messenger-90s-style"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-plant final project-(IBM)",
+    "imageSrc": "projects/Shopping.png",
+    "description": "Basic E-commerce website to understand working of React.",
+    "skills": ["React", "Node", "CSS"],
+    "demo": "https://vallabh-13.github.io/e-plantShopping1/",
+    "source": "https://github.com/vallabh-13/e-plantShopping1"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Quiz-Game final project-(Codedex)",
+    "imageSrc": "projects/Game.png",
+    "description": "A fun project to learn Routing in React.",
+    "skills": ["React", "CSS", "Node"],
+    "demo": "https://codedexio-quiz-game.netlify.app/",
+    "source": "https://github.com/vallabh-13/quiz-name"
+  },
+  {
+    "title": "3D Samsung website",
+    "imageSrc": "projects/3d.png",
+    "description": "Advanced E-commerece Website with 3D objects. (In Progess...)",
+    "skills": ["React", "GSAP", "Three.js"]
+    
   }
+ 
+  
+
 ]

@@ -1,7 +1,7 @@
 @import "../../vars.css";
 
 .container {
-  margin-top: 76px;
+  margin-top: 100px;
   color: var(--color-text);
   margin-left: 10%;
   margin-right: 10%;
@@ -12,10 +12,11 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .projects {
-  margin-top: 37px;
+  margin-top: 80px;
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -23,4 +24,5 @@
   justify-content: center;
   gap: 15px;
   width: 100%;
+
 }

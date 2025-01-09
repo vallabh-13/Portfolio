@@ -46,6 +46,10 @@
   letter-spacing: 1.5px;
 }
 
+.imgg{
+  max-width: 53px;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
