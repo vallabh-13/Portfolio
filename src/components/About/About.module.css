@@ -84,6 +84,12 @@
     background-color: transparent;
     padding-left: 0;
     padding-right: 0;
+    margin-top: 0%;
+  }
+
+  .Image{  
+   max-width: 80px;
+    Padding : 3%;
   }
 
   .content {
@@ -95,11 +101,18 @@
   }
 
   .aboutItems {
-    margin-top: 29px;
+    margin-top: 26px;
   }
 
   .aboutItem {
     padding-left: 0;
     padding-right: 0;
+  }
+  .aboutItem p {
+    font-size: 19px;
+  }
+  .aboutItem h3 {
+    font-size: 25px;
+   
   }
 }

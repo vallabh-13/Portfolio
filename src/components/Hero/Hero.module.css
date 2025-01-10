@@ -109,7 +109,41 @@
     flex-direction: column;
   }
 
-  .content {
-    align-items: center;
-  }
+  .heroImg {
+max-width: 90%;
+margin-top: 10%;
+ }
+ .title {
+  margin-top: 60px;
+  font-size: 40px;
+  font-weight: 900;
+
+  padding: 0%;
+  margin-bottom: 10%;
+  margin-top: 0%;
+}
+.contactBtn {
+  margin-bottom: 0px;
+}
+
+  
+.description {
+  font-size: 20px;
+  font-family: var(--font-outfit);
+  margin-bottom: 52px;
+  padding: 0%;
+  margin-bottom: 15%;
+    
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  color: var(--color-text);
+  z-index: 1;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 80px;
+}
 }
